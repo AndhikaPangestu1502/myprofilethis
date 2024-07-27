@@ -1,0 +1,40 @@
+*, html {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+    background-image: url(.//sasuke.jpg);
+}
+body {
+    height: 100vh;
+}
+.profilimage {
+    width: 300px;
+}
+.Profile {
+    margin-left: 75%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;flex-direction: column;
+    color: white;
+    font-family: cursive;
+    border: black;
+}
+.fontprofile {
+    background-color: white;
+    color: black;
+    border: white;
+    border-radius: 30px;
+    font-size: 27px;
+    border-style: inset;
+    border-top-left-radius: initial;
+}
+.fontjudulhalaman {
+    font-size: 80px;
+    text-align: left;
+    font-family: "Playwrite DK Loopet", cursive;
+    color: black;
+    border: red;
+}
